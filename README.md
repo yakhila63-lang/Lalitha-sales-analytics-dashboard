@@ -1,2 +1,20 @@
-# Lalitha-sales-analytics-dashboard
-Lalitha Sales Analytics Dashboard - Track sales revenue, growth trends, and KPIs with interactive charts. Monitor top products, regional performance, and monthly comparisons. Features real-time data visualization and a clean responsive UI for clear, data-driven business decisions and performance insights.
+# Lalitha Sales Analytics Dashboard 📊
+
+## 🚀 Live Demo
+
+## 📌 Tech Stack
+- **Language**: Python 3.x
+- **Framework**: Streamlit 
+- **Libraries**: Pandas, Plotly, Matplotlib
+- **Dataset**: lalitha sales.csv
+
+## 📈 Key Features
+- Sales revenue & KPI tracking with filters
+- Region-wise & product-wise performance analysis 
+- Monthly trend comparisons with interactive charts
+- Clean responsive UI
+
+## ⚙️ Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
