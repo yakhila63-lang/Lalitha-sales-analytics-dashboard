@@ -1,0 +1,17 @@
+Region,Category,Sales,Profit
+North,Electronics,150000,25000
+South,Electronics,120000,20000
+East,Electronics,90000,15000
+West,Electronics,110000,18000
+North,Furniture,80000,12000
+South,Furniture,95000,14000
+East,Furniture,70000,10000
+West,Furniture,85000,13000
+North,Clothing,60000,18000
+South,Clothing,75000,22000
+East,Clothing,55000,16000
+West,Clothing,65000,19000
+North,Food,40000,8000
+South,Food,50000,10000
+East,Food,35000,7000
+West,Food,45000,9000
